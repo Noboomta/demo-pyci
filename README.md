@@ -13,4 +13,4 @@ Please see: https://cpske.github.io/ISP/automation/travis-demo-project
 
 [![Build Status](https://travis-ci.com/Noboomta/demo-pyci.svg?branch=master)](https://travis-ci.com/Noboomta/demo-pyci)
 
-[![codecov](https://codecov.io/gh/Noboomta/demo-pyci/branch/master/graph/badge.svg?token=XUGA01YGE7)](undefined)
+[![codecov](https://codecov.io/gh/Noboomta/demo-pyci/branch/master/graph/badge.svg)](https://codecov.io/gh/Noboomta/demo-pyci)
